@@ -1,1 +1,1 @@
-Contents of Binary Ninja Scripts or Items used in Reversing Videos
+Contents of Binary Ninja Scripts and Items used in Reversing Videos
